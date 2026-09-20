@@ -29,39 +29,39 @@ This project focuses on analyzing customer churn and retention patterns using Mi
 | **Churn**            | Indicates whether the customer left the company (Yes = Churned, No = Retained).                                  |
 
 ## Project Objectives
--- Analyze the overall distribution of customers based on key characteristics.
--- Examine churn patterns across different customer segments.
--- Compare churn based on demographic factors.
--- Analyze the relationship between customer services and churn.
--- Understand how contract type is associated with customer churn.
--- Examine the relationship between billing preferences and churn.
--- Identify customer groups that show different levels of churn.
+- Analyze the overall distribution of customers based on key characteristics.
+- Examine churn patterns across different customer segments.
+- Compare churn based on demographic factors.
+- Analyze the relationship between customer services and churn.
+- Understand how contract type is associated with customer churn.
+- Examine the relationship between billing preferences and churn.
+- Identify customer groups that show different levels of churn.
 
 ## Dashboard Analysis
 The dashboard contains visualizations covering the following areas:
 
 ## Customer Demographics
--- Gender vs Churn
--- Senior Citizen Status vs Churn
--- Partner Status vs Churn
--- Dependents Status vs Churn
+- Gender vs Churn
+- Senior Citizen Status vs Churn
+- Partner Status vs Churn
+- Dependents Status vs Churn
 These visuals help compare churn patterns across different demographic and household characteristics.
 
 ## Service Analysis
--- Internet Service vs Churn
--- Tech Support vs Churn
--- Online Security vs Churn
+- Internet Service vs Churn
+- Tech Support vs Churn
+- Online Security vs Churn
 These analyses examine whether the type of internet service and additional support/security services are associated with differences in customer churn.
 
 ## Contract & Billing Analysis
--- Contract Type vs Churn
--- Paperless Billing vs Churn
+- Contract Type vs Churn
+- Paperless Billing vs Churn
 These visuals explore how contractual commitments and billing preferences relate to customer retention.
 
 ## Key Dashboard Features
--- Interactive Power BI visualizations
--- Churn comparison across multiple customer attributes
--- Customer-level segmentation
--- Categorical analysis of services and subscriptions
--- Clear comparison of churned and retained customers
--- Consistent dashboard layout for easier interpretation
+- Interactive Power BI visualizations
+- Churn comparison across multiple customer attributes
+- Customer-level segmentation
+- Categorical analysis of services and subscriptions
+- Clear comparison of churned and retained customers
+- Consistent dashboard layout for easier interpretation
