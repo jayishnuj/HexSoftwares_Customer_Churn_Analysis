@@ -28,6 +28,3 @@ This project focuses on analyzing customer churn and retention patterns using Mi
 | **numTechTickets**   | Number of technical support tickets raised by the customer.                                                      |
 | **Churn**            | Indicates whether the customer left the company (Yes = Churned, No = Retained).                                  |
 
-
-* **Yes** → Customer churned
-* **No** → Customer retained
