@@ -65,3 +65,19 @@ These visuals explore how contractual commitments and billing preferences relate
 - Categorical analysis of services and subscriptions
 - Clear comparison of churned and retained customers
 - Consistent dashboard layout for easier interpretation
+
+## Tools & Technologies
+- Microsoft Power BI
+- Power Query – Data cleaning and transformation
+- DAX – Calculations and analytical measures
+- Data Visualization
+- Customer Churn Analysis
+
+## Analytical Approach
+- Data Import – Imported the customer churn dataset into Power BI.
+- Data Cleaning & Transformation – Prepared the dataset using Power Query.
+- Data Validation – Checked categorical values and data types.
+- Data Modeling – Prepared the data for visualization and analysis.
+- Visualization – Created comparative charts for churn analysis.
+- Analysis – Examined churn patterns across demographic, service, contract, and billing attributes.
+- Dashboard Design – Organized the visuals into a single structured Customer Churn Analysis dashboard.
